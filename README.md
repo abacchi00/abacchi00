@@ -1,12 +1,17 @@
-<h1 align="center">Hi 👋, I'm André Bacchi</h1>
-<h3 align="center">A passionate (React.js/Next.js) frontend developer from São Paulo, SP, Brazil</h3>
+<h1 align="center">Hi 👋, I'm André</h1>
+<h3 align="center">A passionate developer from São Paulo, SP, Brazil</h3>
 
-- 🔭 I’m currently working on [Bacchi Chess](https://github.com/abacchi00/bacchi-chess)
+I work as a Frontend Software Engineer at a Brazilian LegalTech, using React.js, Next.js and Typescript. Previously worked with Ruby and Ruby on Rails too.
 
-- 🌱 I’m currently studying **Design Patterns / NodeJS + Express + NestJS**
+🔭 (When I have time) I like to work on [Bacchi Chess](https://github.com/abacchi00/bacchi-chess)
+<br/>
+🌱 I’m currently deepening my knowledge in **Design Patterns** and studying **NodeJS, Express and NestJS**
+<br/>
+📫 How to reach me: **andre.rossini.bacchi@gmail.com**
+<br/>
 
-- 📫 How to reach me **andre.rossini.bacchi@gmail.com**
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abacchi00&show_icons=true&locale=en&layout=compact" alt="abacchi00" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abacchi00&show_icons=true&locale=en" alt="abacchi00" /></p>
+ <div>
+  <a href="https://github.com/abacchi00">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abacchi00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abacchi00&layout=compact&theme=tokyonight"/>
+</div>
