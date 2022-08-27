@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm André Bacchi</h1>
-<h3 align="center">A passionate (React.js/Next.js) frontend developer from Sã o Paulo, SP, Brazil</h3>
+<h3 align="center">A passionate (React.js/Next.js) frontend developer from São Paulo, SP, Brazil</h3>
 
 - 🔭 I’m currently working on [Bacchi Chess](https://github.com/abacchi00/bacchi-chess)
 
