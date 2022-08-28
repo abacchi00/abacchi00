@@ -13,5 +13,5 @@ I work as a Frontend Software Engineer at a Brazilian LegalTech, using React.js,
  <div>
   <a href="https://github.com/abacchi00">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abacchi00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abacchi00&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abacchi00&layout=compact&theme=tokyonight&count_private=true"/>
 </div>
