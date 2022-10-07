@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm André</h1>
 <h3 align="center">A passionate developer from São Paulo, SP, Brazil</h3>
 
-I work as a Frontend Software Engineer at a Brazilian LegalTech, using React.js, Next.js and Typescript. Previously worked with Ruby and Ruby on Rails too.
+I work as a Frontend Software Engineer, mostly using React.js, Next.js and Typescript. Previously worked with Ruby and Ruby on Rails too.
 
 🔭 (When I have time) I like to work on [Bacchi Chess](https://github.com/abacchi00/bacchi-chess)
 <br/>
