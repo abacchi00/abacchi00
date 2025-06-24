@@ -7,8 +7,8 @@ I work as a Fullstack Software Engineer, mostly using React.js, Next.js, Node.js
 📫 How to reach me: <strong>andre.rossini.bacchi@gmail.com</strong>
 <br/>
 <br/>
-🔗 My website: <a target="_blank" href="www.abacchi.dev">abacchi.dev</a>
+🔗 My website: <a target="_blank" href="https://www.abacchi.dev">abacchi.dev</a>
 <br/>
 <br/>
-🔗 Wishstash project: <a target="_blank" href="www.wishstash.com">wishstash.com</a>
+🔗 Wishstash project: <a target="_blank" href="https://www.wishstash.com">wishstash.com</a>
 <br/>
