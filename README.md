@@ -9,6 +9,4 @@ I work as a Fullstack Software Engineer, mostly using React.js, Next.js, Node.js
 <br/>
 🔗 My website: <a target="_blank" href="https://www.abacchi.dev">abacchi.dev</a>
 <br/>
-<br/>
-🔗 Wishstash project: <a target="_blank" href="https://www.wishstash.com">wishstash.com</a>
-<br/>
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
