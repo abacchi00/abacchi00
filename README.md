@@ -9,3 +9,5 @@ I work as a Fullstack Software Engineer, mostly using React.js, Next.js, Node.js
 <br/>
 🔗 My website: <a target="_blank" href="https://www.abacchi.dev">abacchi.dev</a>
 <br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
